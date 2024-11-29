@@ -17,6 +17,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ZolanQ&show_icons=true&theme=light&count_private=true" alt="Github Stats"/>
   
 ## Contact me
-- Discord: [ZolanQ#1379](https://discord.com/channels/@me/845104522811932732)
-- Twitter: [@YT_ZolanQ](https://twitter.com/YT_ZolanQ)
+- Discord: [ZolanQ#0690](https://discord.com/users/670067434278879235)
+- Twitter: [@ZolanQ_x](https://x.com/zolanq_x?s=21)
 - Instagram: [@ZolanQ](https://www.instagram.com/zolanq)
